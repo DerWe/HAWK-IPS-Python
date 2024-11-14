@@ -1,0 +1,17 @@
+1. Beschreiben Sie, was eine Prozedur ist und welchen Zweck es hat, Prozeduren zu entwerfen und zu implementieren.
+Prozedur ist ein untergeordneter Programmteil, der eine einzelne Funktion erfüllt und dazu Algorithmen beinhaltet
+
+2. Was ist Python, was ist eine Python-Distribution und wo wird Python eingesetzt?
+Eine Python distribution ist eine Zusammenstellung von z.B. Python, IDE, und Paketmanager um das Hanling und die Entwicklung zu vereinfachen
+
+3. Installieren Sie den Python-Interpreter und lassen Sie das Ergebnis zu print(1 + 2) im Batchmodus als auch interaktiv errechnen.
+-
+
+4. Erklären Sie die Bestandteile und das Ergebnis des folgenden Ausdrucks: value = "False" * 3.
+Nimmt den String "value" und kopiert ihn 3 hintereinander
+
+5. Wieso gibt es verschiedene Software zum Schreiben von Programmcode und wie entscheidet man sich für die richtige?
+Viele Herstelle bieten Softwarea an, sie haben unterschiedliche Features, sowie vor und Nachteile. Je nach einsatzzweck eignet sich die Software bei der die Vorteile Überwiegen
+
+6. Hängen Sie die Quick Documentation Lookup als Werkzeugfenster auf der rechten Seite des PyCharm- Fensters an und lassen Sie sich die Hilfeseite für ein Objekt (den „Docstring“) anzeigen, das sich mindestens 200 ms lang unter Ihrem Cursor befindet
+- 
